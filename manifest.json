@@ -12,5 +12,7 @@
     "art": "/art/",
     "thumb": "/thumb/",
     "link" : "https://shop.arghacademy.org/",
-    "link_text": "Coming Soon!"
+    "link_text": "Coming Soon!",
+
+    "current":true
 }
