@@ -12,7 +12,7 @@ The root folder contains the `manifest.json` which lists the official metadata f
 - `cover.jpeg` - A cover image in jpeg format.
 - `cover.png` - A cover image in png format.
 - `list.json` - A list of every card in the release.
-- `packs.json` - A lost of every Feature Pack in the release.
+- `packs.json` - A list of every Feature Pack in the release.
 
 There are also the following folders:
 
