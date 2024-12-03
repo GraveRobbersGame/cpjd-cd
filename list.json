@@ -434,7 +434,7 @@
     {
         "number": "02-04",
         "type": "creature",
-        "name": "Why’d It Have to Be Snakes?",
+        "name": "Why'd It Have to Be Snakes?",
         "traits": [
             "Monster",
             "Swarm"
@@ -451,7 +451,7 @@
         "y": 0,
         "z": 1,
         "bg": "0x000000",
-        "artist": "Steve Caruso",
+        "artist": "S. & Eli Caruso",
         "frame": "default"
     },
     {
