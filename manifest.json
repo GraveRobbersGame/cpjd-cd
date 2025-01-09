@@ -3,7 +3,7 @@
     "short": "Cannibal Pygmies: Director's Cut!",
     "year": "2024",
     "sigil": "cpjd-dc",
-    "type": "screentest",
+    "type": "official",
     "description" : "Lost in the jungle? Don't worry—they'll find you.",
     
     "list": "list.json",
@@ -11,8 +11,8 @@
     "cover": "cover.jpeg",
     "art": "/art/",
     "thumb": "/thumb/",
-    "link" : "https://shop.arghacademy.org/",
-    "link_text": "Coming Soon!",
+    "link" : "https://shop.arghacademy.org/products/cannibal-pygmies-in-the-jungle-of-doom",
+    "link_text": "Get it at the ARGH Shop",
 
     "current":true
 }
